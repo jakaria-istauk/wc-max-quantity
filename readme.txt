@@ -2,7 +2,7 @@
 
 Contributors: jakariaistauk
 
-Tags: WooCommerce, quantity limit, cart limit, inventory management
+Tags: WooCommerce, quantity limit, cart limit, cart quantity limit, item limit
 
 Requires at least: 5.0
 
@@ -39,7 +39,8 @@ To set a maximum quantity limit for a product, go to the "Products" page in your
 
 == Screenshots ==
 
-    Setting a maximum quantity limit for a product.
+    01. Setting a maximum quantity limit for a product.
+    02. Showing the limitation notice.
 
 == Changelog ==
 
